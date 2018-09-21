@@ -1,0 +1,9 @@
+Exception: STATUS_ACCESS_VIOLATION at eip=6115F9D2
+eax=00000064 ebx=0022CC9C ecx=00000000 edx=00000040 esi=612CB97E edi=0022CD84
+ebp=0022CC78 esp=0022CC48 program=C:\Users\xodsergey\Documents\NetBeansProjects\CppApplication_9\dist\Debug\Cygwin-Windows\cppapplication_9.exe, pid 2868, thread main
+cs=001B ds=0023 es=0023 fs=003B gs=0000 ss=0023
+Stack trace:
+Frame     Function  Args
+0022CC78  6115F9D2 (00000001, 0022CC9C, 200000D0, 61009DE8)
+0022CD28  61009E4A (00000000, 0022CD84, 61008DE0, 00000000)
+End of stack trace
